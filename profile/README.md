@@ -1,3 +1,3 @@
 # A Tribe called Deevper
 
-Dev + deeper
+Dev + deeper -> 뎁퍼
